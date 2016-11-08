@@ -4,6 +4,19 @@
   <option name="PARAMETER_NAME_PREFIX" value="a" />
   <option name="VISIBILITY" value="protected" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="java" withSubpackages="true" static="false" />
+      <package name="javax" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="android.*" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
+  <option name="RIGHT_MARGIN" value="200" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
     <option name="LAYOUT_SETTINGS">
