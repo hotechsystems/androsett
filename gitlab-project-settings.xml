@@ -1,6 +1,172 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="git@radev.amonra.com.tr:onapp/android.git" />
-    <option name="token" value="" />
+    <option name="host" value="http://radev.amonra.com.tr:81" />
+    <option name="token" value="Dnz5eBVMYzFHEubKAhKD" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/onapp/android.git" />
+          <option name="name" value="Andro" />
+          <option name="namespace" value="OnApp" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:onapp/android.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/web/raweb.git" />
+          <option name="name" value="raweb" />
+          <option name="namespace" value="RaWeb" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:web/raweb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/web/webm.git" />
+          <option name="name" value="webm" />
+          <option name="namespace" value="RaWeb" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:web/webm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/amonra-dev.git" />
+          <option name="name" value="amonra-dev" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/amonra-dev.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/amonra-log.git" />
+          <option name="name" value="amonra-log" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/amonra-log.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/amonra-log-parse.git" />
+          <option name="name" value="amonra-log-parse" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/amonra-log-parse.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/docker-elk.git" />
+          <option name="name" value="docker-elk" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/docker-elk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/emailer.git" />
+          <option name="name" value="emailer" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/emailer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/environment.git" />
+          <option name="name" value="environment" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/environment.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/esreporting.git" />
+          <option name="name" value="esreporting" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/esreporting.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/firebird-promise.git" />
+          <option name="name" value="firebird-promise" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/firebird-promise.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/forwarder.git" />
+          <option name="name" value="forwarder" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/forwarder.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/importer.git" />
+          <option name="name" value="importer" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/importer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/iplookup.git" />
+          <option name="name" value="iplookup" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/iplookup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/login.git" />
+          <option name="name" value="login" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/login.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/ms-ci.git" />
+          <option name="name" value="ms-ci" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/ms-ci.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/ms-kubernetes.git" />
+          <option name="name" value="ms-kubernetes" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/ms-kubernetes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/object-utils.git" />
+          <option name="name" value="object-utils" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/object-utils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/pinterval.git" />
+          <option name="name" value="pinterval" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/pinterval.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/promise-step.git" />
+          <option name="name" value="promise-step" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/promise-step.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/promise-validate.git" />
+          <option name="name" value="promise-validate" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/promise-validate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/reporting.git" />
+          <option name="name" value="reporting" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/reporting.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/seneca-log-act.git" />
+          <option name="name" value="seneca-log-act" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/seneca-log-act.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/social.git" />
+          <option name="name" value="social" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/social.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/standard-error.git" />
+          <option name="name" value="standard-error" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/standard-error.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/storage.git" />
+          <option name="name" value="storage" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/storage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://radev.amonra.com.tr:81/root/test-project-is-test.git" />
+          <option name="name" value="test-project-is-test" />
+          <option name="namespace" value="root" />
+          <option name="sshUrl" value="git@radev.amonra.com.tr:root/test-project-is-test.git" />
+        </ProjectDto>
+      </list>
+    </option>
   </component>
 </application>
