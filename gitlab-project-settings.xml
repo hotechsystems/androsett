@@ -1,6 +1,6 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="git@radev.amonra.com.tr:hturgut/OnApp.git" />
+    <option name="host" value="git@radev.amonra.com.tr:onapp/android.git" />
     <option name="token" value="" />
   </component>
 </application>
