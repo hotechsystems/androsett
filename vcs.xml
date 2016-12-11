@@ -10,6 +10,18 @@
           <option name="url" value="https://github.com/hotechsystems/onapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@radev.amonra.com.tr:onapp/android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://radev.amonra.com.tr:81" />
+          <option name="userName" value="hturgut" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://radev.amonra.com.tr:81/onapp/android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dev/Android" />
