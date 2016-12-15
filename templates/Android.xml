@@ -1,10 +1,13 @@
 <templateSet group="Android">
-  <template name="constpub" value="public static final $type$ $name$ = $value$;" description="Define Android style int constant -public" toReformat="false" toShortenFQNames="true">
-    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="iflog" value="if (OnApp.getSett().getLogEnabled()) {&#10;    $END$            &#10;}" description="if LogEnabled (logging enabled)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
     </context>
   </template>
 </templateSet>
