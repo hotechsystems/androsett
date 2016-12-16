@@ -2,23 +2,15 @@
   <template name="iflog" value="if (isAppLogEnabled()) {&#10;    $END$            &#10;}" description="if LogEnabled (module-wide logging enabled)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="false" />
       <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="true" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
   <template name="iflogapp" value="if (OnApp.getSett().getLogEnabled()) {&#10;    $END$            &#10;}" description="if LogEnabled (app-wide logging enabled)" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STATEMENT" value="true" />
-      <option name="JAVA_EXPRESSION" value="true" />
       <option name="JAVA_DECLARATION" value="false" />
       <option name="JAVA_COMMENT" value="false" />
-      <option name="JAVA_STRING" value="true" />
-      <option name="COMPLETION" value="true" />
     </context>
   </template>
 </templateSet>
