@@ -1,6 +1,6 @@
-<code_scheme name="Default (2)">
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="2" />
+<code_scheme name="Default">
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value />
   </option>
@@ -30,9 +30,6 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -59,6 +56,9 @@
     </extensions>
   </Objective-C-extensions>
   <XML>
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="XML">
