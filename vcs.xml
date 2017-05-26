@@ -26,8 +26,12 @@
           <option name="url" value="http://hturgut@radev.amonra.com.tr:81/newbie/Quiz.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Sunny1989/DataBindingExample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dev/Android" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev/Android/Samples" />
   </component>
 </application>
