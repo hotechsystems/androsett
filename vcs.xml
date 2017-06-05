@@ -46,6 +46,10 @@
           <option name="url" value="https://github.com/dissaby/HW_008_AsynkTaskLoader_Zviagov.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sdgsys/ViewPagerDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dev/Android/Samples" />
